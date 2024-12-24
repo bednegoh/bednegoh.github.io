@@ -11,12 +11,12 @@ const contactInfo: ContactInfoItem[] = [
   {
     icon: <Mail size={24} />,
     label: 'Email',
-    value: 'contact@example.com',
+    value: 'bednegohseme@gmail.com',
   },
   {
     icon: <Phone size={24} />,
     label: 'Phone',
-    value: '+254 XXX XXX XXX',
+    value: '+254 754 182 515 ',
   },
   {
     icon: <MapPin size={24} />,
